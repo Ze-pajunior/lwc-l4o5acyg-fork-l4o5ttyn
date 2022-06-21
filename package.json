@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/ze-pajunior.lwc-l4o5acyg-fork-l4o5ttyn",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 3GtxorHZGkUPZBnzuNHj --open"
+  }
+}
